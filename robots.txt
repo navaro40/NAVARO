@@ -1,0 +1,40 @@
+# robots.txt for NAVARO Official Portfolio
+# https://www.navaro-official.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow CSS and JavaScript for proper rendering
+Allow: /styles.css
+Allow: /script.js
+Allow: /assets/
+
+# Sitemap location
+Sitemap: https://www.navaro-official.com/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
+

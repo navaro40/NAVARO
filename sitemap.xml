@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.navaro-official.com/</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.navaro-official.com/assets/images/me.png</image:loc>
+            <image:title>NAVARO - Rap Artist from Khenchela, Algeria</image:title>
+            <image:caption>NAVARO performing powerful rap music</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Biography Section -->
+    <url>
+        <loc>https://www.navaro-official.com/#biography</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Discography Section -->
+    <url>
+        <loc>https://www.navaro-official.com/#discography</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Music Highlights Section -->
+    <url>
+        <loc>https://www.navaro-official.com/#music</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Press & Media Section -->
+    <url>
+        <loc>https://www.navaro-official.com/#press</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Contact Section -->
+    <url>
+        <loc>https://www.navaro-official.com/#contact</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- YouTube Links (External) -->
+    <url>
+        <loc>https://www.youtube.com/watch?v=aD4zKLSRxjo</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.youtube.com/watch?v=YZzJL1gZYiw</loc>
+        <lastmod>2019-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.youtube.com/watch?v=Gbf0d4Ag2co</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.youtube.com/watch?v=BvUpJJCA96A</loc>
+        <lastmod>2016-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.youtube.com/watch?v=luJQL11Q-kA</loc>
+        <lastmod>2015-01-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+</urlset>
+
